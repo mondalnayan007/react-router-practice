@@ -7,6 +7,7 @@ import './index.css'
 import RootLayout from './components/Layouts/RootLayout';
 import Home from './components/Home/Home';
 import Properties from './components/Properties/Properties';
+import Projects from './components/Projects/Projects';
 
 
 const router = createBrowserRouter([
@@ -21,7 +22,14 @@ const router = createBrowserRouter([
       {
         path : 'properties',
         Component : Properties
-      }
+      },
+      
+      {
+        path : 'projects',
+        loader : ()=>fetch('https://dummyjson.com/products'),
+        Component : Projects
+      },
+
     ]
   },
   {

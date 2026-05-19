@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "category": "Penthouses",
+    "tag": "Exclusive",
+    "img": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=600&q=80",
+    "title": "The Obsidian Penthouse",
+    "location": "Fifth Ave, New York",
+    "price": "$4,850,000",
+    "beds": 3,
+    "baths": 3.5,
+    "sqft": "3,200 sqft"
+  },
+  {
+    "id": 2,
+    "category": "Luxury Villas",
+    "tag": "New Launch",
+    "img": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=600&q=80",
+    "title": "Serene Woods Estate",
+    "location": "Austin, Texas",
+    "price": "$6,200,000",
+    "beds": 5,
+    "baths": 6,
+    "sqft": "6,800 sqft"
+  },
+  {
+    "id": 3,
+    "category": "Penthouses",
+    "tag": "Selling Fast",
+    "img": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=600&q=80",
+    "title": "Azure Coast Condos",
+    "location": "Brickell, Miami",
+    "price": "$2,920,000",
+    "beds": 2,
+    "baths": 2,
+    "sqft": "1,950 sqft"
+  },
+  {
+    "id": 4,
+    "category": "Modern Mansions",
+    "tag": "Limited",
+    "img": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=600&q=80",
+    "title": "The Luminary Mansion",
+    "location": "Beverly Hills, CA",
+    "price": "$12,500,000",
+    "beds": 6,
+    "baths": 8,
+    "sqft": "10,400 sqft"
+  },
+  {
+    "id": 5,
+    "category": "Luxury Villas",
+    "tag": "Exclusive",
+    "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=600&q=80",
+    "title": "Aura Vista Villa",
+    "location": "Malibu, California",
+    "price": "$8,900,000",
+    "beds": 4,
+    "baths": 5,
+    "sqft": "5,200 sqft"
+  },
+  {
+    "id": 6,
+    "category": "Modern Mansions",
+    "tag": "New Build",
+    "img": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=600&q=80",
+    "title": "Minimalist Monolith",
+    "location": "Aspen, Colorado",
+    "price": "$7,400,000",
+    "beds": 4,
+    "baths": 4.5,
+    "sqft": "4,600 sqft"
+  },
+  {
+    "id": 7,
+    "category": "Penthouses",
+    "tag": "Top Floor",
+    "img": "https://images.unsplash.com/photo-1567496898669-ee935f5f647a?auto=format&fit=crop&w=600&q=80",
+    "title": "The Horizon Sky-Home",
+    "location": "Downtown, Chicago",
+    "price": "$3,450,000",
+    "beds": 3,
+    "baths": 3,
+    "sqft": "2,800 sqft"
+  },
+  {
+    "id": 8,
+    "category": "Luxury Villas",
+    "tag": "Oceanfront",
+    "img": "https://images.unsplash.com/photo-1512915922686-57c11dde9b6b?auto=format&fit=crop&w=600&q=80",
+    "title": "Elysian Waters Estate",
+    "location": "Maui, Hawaii",
+    "price": "$11,200,000",
+    "beds": 5,
+    "baths": 5.5,
+    "sqft": "6,100 sqft"
+  },
+  {
+    "id": 9,
+    "category": "Modern Mansions",
+    "tag": "Exclusive",
+    "img": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=600&q=80",
+    "title": "The Pinnacle Crest",
+    "location": "Bel Air, CA",
+    "price": "$15,800,000",
+    "beds": 7,
+    "baths": 9,
+    "sqft": "12,300 sqft"
+  },
+  {
+    "id": 10,
+    "category": "Luxury Villas",
+    "tag": "New Launch",
+    "img": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=600&q=80",
+    "title": "Verdant Oasis Manor",
+    "location": "Scottsdale, Arizona",
+    "price": "$5,150,000",
+    "beds": 4,
+    "baths": 4.5,
+    "sqft": "5,400 sqft"
+  }
+]
