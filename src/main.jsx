@@ -29,6 +29,11 @@ const router = createBrowserRouter([
         loader : ()=>fetch('projects.json'),
         Component : Projects
       },
+      {
+        path : 'projects/:projectId',
+        loader : ({params})=>fetch('projects.json'),
+        Component : Projects
+      },
 
     ]
   },

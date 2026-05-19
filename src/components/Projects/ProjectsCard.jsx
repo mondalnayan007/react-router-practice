@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router';
 
 const ProjectsCard = ({project}) => {
     console.log(project);
@@ -74,11 +75,11 @@ const ProjectsCard = ({project}) => {
           </div>
           
           {/* Elegant Circular Arrow Button */}
-          <button className="relative flex items-center justify-center w-12 h-12 rounded-full border border-amber-500/30 bg-stone-900 text-amber-400 overflow-hidden transition-all duration-300 group-hover:bg-amber-500 group-hover:text-stone-950 group-hover:border-amber-500 shadow-md">
+          <Link to={`projects/${project.id}`}  className="relative flex items-center justify-center w-12 h-12 rounded-full border border-amber-500/30 bg-stone-900 text-amber-400 overflow-hidden transition-all duration-300 group-hover:bg-amber-500 group-hover:text-stone-950 group-hover:border-amber-500 shadow-md">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor" className="w-5 h-5 transition-transform duration-300 group-hover:translate-x-0.5 group-hover:-translate-y-0.5">
               <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25" />
             </svg>
-          </button>
+          </Link >
         </div>
 
       </div>
